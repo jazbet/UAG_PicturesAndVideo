@@ -14,6 +14,18 @@
 		8B0EF5E319E76E1100428B63 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF5E219E76E1100428B63 /* Images.xcassets */; };
 		8B0EF5E619E76E1100428B63 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF5E419E76E1100428B63 /* LaunchScreen.xib */; };
 		8B0EF5F219E76E1100428B63 /* picturesAndVideoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0EF5F119E76E1100428B63 /* picturesAndVideoTests.m */; };
+		8B0EF60219E76F1E00428B63 /* 0anios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF5FC19E76F1E00428B63 /* 0anios.jpg */; };
+		8B0EF60319E76F1E00428B63 /* 5anios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF5FD19E76F1E00428B63 /* 5anios.jpg */; };
+		8B0EF60419E76F1E00428B63 /* 7anios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF5FE19E76F1E00428B63 /* 7anios.jpg */; };
+		8B0EF60519E76F1E00428B63 /* 10anios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF5FF19E76F1E00428B63 /* 10anios.jpg */; };
+		8B0EF60619E76F1E00428B63 /* 13anios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF60019E76F1E00428B63 /* 13anios.jpg */; };
+		8B0EF60719E76F1E00428B63 /* 15anios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF60119E76F1E00428B63 /* 15anios.jpg */; };
+		8B0EF60A19E7964F00428B63 /* Oklahoma_city_downtown.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF60919E7964F00428B63 /* Oklahoma_city_downtown.JPG */; };
+		8B0EF61519E7A1CC00428B63 /* Page2.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0EF61419E7A1CC00428B63 /* Page2.m */; };
+		8B0EF61819E7A7CE00428B63 /* Page3.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0EF61719E7A7CE00428B63 /* Page3.m */; };
+		8B0EF61D19E7B7E700428B63 /* Page4.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0EF61C19E7B7E700428B63 /* Page4.m */; };
+		8B0EF62019E7BCE100428B63 /* america.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF61E19E7BCE100428B63 /* america.jpeg */; };
+		8B0EF62119E7BCE100428B63 /* chivas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B0EF61F19E7BCE100428B63 /* chivas.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +52,22 @@
 		8B0EF5EB19E76E1100428B63 /* picturesAndVideoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = picturesAndVideoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B0EF5F019E76E1100428B63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B0EF5F119E76E1100428B63 /* picturesAndVideoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = picturesAndVideoTests.m; sourceTree = "<group>"; };
+		8B0EF5FC19E76F1E00428B63 /* 0anios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0anios.jpg; sourceTree = "<group>"; };
+		8B0EF5FD19E76F1E00428B63 /* 5anios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5anios.jpg; sourceTree = "<group>"; };
+		8B0EF5FE19E76F1E00428B63 /* 7anios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7anios.jpg; sourceTree = "<group>"; };
+		8B0EF5FF19E76F1E00428B63 /* 10anios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10anios.jpg; sourceTree = "<group>"; };
+		8B0EF60019E76F1E00428B63 /* 13anios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13anios.jpg; sourceTree = "<group>"; };
+		8B0EF60119E76F1E00428B63 /* 15anios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15anios.jpg; sourceTree = "<group>"; };
+		8B0EF60919E7964F00428B63 /* Oklahoma_city_downtown.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Oklahoma_city_downtown.JPG; sourceTree = "<group>"; };
+		8B0EF61319E7A1CC00428B63 /* Page2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page2.h; sourceTree = "<group>"; };
+		8B0EF61419E7A1CC00428B63 /* Page2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page2.m; sourceTree = "<group>"; };
+		8B0EF61619E7A7CE00428B63 /* Page3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page3.h; sourceTree = "<group>"; };
+		8B0EF61719E7A7CE00428B63 /* Page3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page3.m; sourceTree = "<group>"; };
+		8B0EF61919E7AB0F00428B63 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		8B0EF61B19E7B7E700428B63 /* Page4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page4.h; sourceTree = "<group>"; };
+		8B0EF61C19E7B7E700428B63 /* Page4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page4.m; sourceTree = "<group>"; };
+		8B0EF61E19E7BCE100428B63 /* america.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = america.jpeg; path = ../../../Downloads/america.jpeg; sourceTree = "<group>"; };
+		8B0EF61F19E7BCE100428B63 /* chivas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chivas.jpg; path = ../../../Downloads/chivas.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +91,7 @@
 		8B0EF5C919E76E1100428B63 = {
 			isa = PBXGroup;
 			children = (
+				8B0EF61919E7AB0F00428B63 /* MediaPlayer.framework */,
 				8B0EF5D419E76E1100428B63 /* picturesAndVideo */,
 				8B0EF5EE19E76E1100428B63 /* picturesAndVideoTests */,
 				8B0EF5D319E76E1100428B63 /* Products */,
@@ -81,6 +110,8 @@
 		8B0EF5D419E76E1100428B63 /* picturesAndVideo */ = {
 			isa = PBXGroup;
 			children = (
+				8B0EF60819E76F2600428B63 /* paginas */,
+				8B0EF5FB19E76EDC00428B63 /* fotos */,
 				8B0EF5D919E76E1100428B63 /* AppDelegate.h */,
 				8B0EF5DA19E76E1100428B63 /* AppDelegate.m */,
 				8B0EF5DC19E76E1100428B63 /* ViewController.h */,
@@ -89,6 +120,12 @@
 				8B0EF5E219E76E1100428B63 /* Images.xcassets */,
 				8B0EF5E419E76E1100428B63 /* LaunchScreen.xib */,
 				8B0EF5D519E76E1100428B63 /* Supporting Files */,
+				8B0EF61319E7A1CC00428B63 /* Page2.h */,
+				8B0EF61419E7A1CC00428B63 /* Page2.m */,
+				8B0EF61619E7A7CE00428B63 /* Page3.h */,
+				8B0EF61719E7A7CE00428B63 /* Page3.m */,
+				8B0EF61B19E7B7E700428B63 /* Page4.h */,
+				8B0EF61C19E7B7E700428B63 /* Page4.m */,
 			);
 			path = picturesAndVideo;
 			sourceTree = "<group>";
@@ -117,6 +154,29 @@
 				8B0EF5F019E76E1100428B63 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8B0EF5FB19E76EDC00428B63 /* fotos */ = {
+			isa = PBXGroup;
+			children = (
+				8B0EF61E19E7BCE100428B63 /* america.jpeg */,
+				8B0EF61F19E7BCE100428B63 /* chivas.jpg */,
+				8B0EF60919E7964F00428B63 /* Oklahoma_city_downtown.JPG */,
+				8B0EF5FC19E76F1E00428B63 /* 0anios.jpg */,
+				8B0EF5FD19E76F1E00428B63 /* 5anios.jpg */,
+				8B0EF5FE19E76F1E00428B63 /* 7anios.jpg */,
+				8B0EF5FF19E76F1E00428B63 /* 10anios.jpg */,
+				8B0EF60019E76F1E00428B63 /* 13anios.jpg */,
+				8B0EF60119E76F1E00428B63 /* 15anios.jpg */,
+			);
+			name = fotos;
+			sourceTree = "<group>";
+		};
+		8B0EF60819E76F2600428B63 /* paginas */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = paginas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +259,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B0EF60619E76F1E00428B63 /* 13anios.jpg in Resources */,
+				8B0EF60419E76F1E00428B63 /* 7anios.jpg in Resources */,
+				8B0EF60A19E7964F00428B63 /* Oklahoma_city_downtown.JPG in Resources */,
+				8B0EF62119E7BCE100428B63 /* chivas.jpg in Resources */,
 				8B0EF5E119E76E1100428B63 /* Main.storyboard in Resources */,
+				8B0EF60319E76F1E00428B63 /* 5anios.jpg in Resources */,
 				8B0EF5E619E76E1100428B63 /* LaunchScreen.xib in Resources */,
 				8B0EF5E319E76E1100428B63 /* Images.xcassets in Resources */,
+				8B0EF60519E76F1E00428B63 /* 10anios.jpg in Resources */,
+				8B0EF62019E7BCE100428B63 /* america.jpeg in Resources */,
+				8B0EF60719E76F1E00428B63 /* 15anios.jpg in Resources */,
+				8B0EF60219E76F1E00428B63 /* 0anios.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,7 +288,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B0EF61819E7A7CE00428B63 /* Page3.m in Sources */,
 				8B0EF5DE19E76E1100428B63 /* ViewController.m in Sources */,
+				8B0EF61519E7A1CC00428B63 /* Page2.m in Sources */,
+				8B0EF61D19E7B7E700428B63 /* Page4.m in Sources */,
 				8B0EF5DB19E76E1100428B63 /* AppDelegate.m in Sources */,
 				8B0EF5D819E76E1100428B63 /* main.m in Sources */,
 			);
@@ -348,6 +420,7 @@
 				INFOPLIST_FILE = picturesAndVideo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -358,6 +431,7 @@
 				INFOPLIST_FILE = picturesAndVideo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -414,6 +488,7 @@
 				8B0EF5F719E76E1100428B63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8B0EF5F819E76E1100428B63 /* Build configuration list for PBXNativeTarget "picturesAndVideoTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +497,7 @@
 				8B0EF5FA19E76E1100428B63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
